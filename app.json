@@ -41,8 +41,8 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "description": "لاتغيرة ابد",
+      "value": "rickthon",
       "required": false
     }
   },
