@@ -3,7 +3,7 @@ FROM rickthon/rickthonar:alpine
 #clonning repo 
 RUN git clone https://github.com/yah737dh/rickthontest/tree/master.git /root/arab
 #working directory 
-WORKDIR /root/rickthon
+WORKDIR /root/arab
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
