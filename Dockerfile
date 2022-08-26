@@ -1,4 +1,4 @@
-FROM telethonArab/telethonAr:alpine
+FROM rickthoniraq/rickthon:alpine
 
 #clonning repo 
 RUN git clone https://github.com/yah737dh/rickthontest.git /root/Arab
