@@ -1,7 +1,7 @@
 FROM rickthoniraq/rickthon:alpine
 
 #clonning repo 
-RUN git clone https://github.com/yah737dh/rickthontest.git /root/rickthon
+RUN git clone https://github.com/yah737dh/rickthontest/tree/master.git /root/rickthon
 #working directory 
 WORKDIR /root/rickthon
 
