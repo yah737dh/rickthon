@@ -1,4 +1,4 @@
-FROM rickthoniraq/rickthon:alpine
+FROM rickthon/rickthonar:alpine
 
 #clonning repo 
 RUN git clone https://github.com/yah737dh/rickthontest/tree/master.git /root/rickthon
